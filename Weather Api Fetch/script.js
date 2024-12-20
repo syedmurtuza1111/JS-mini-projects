@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded',()=>{
     const errorMessage = document.getElementById('error-message')
 
 
-    const API_KEY = '753aad24ad826cab507c8e81298ab796'
+    const API_KEY = '753aad24ad826cab507c8e81298ab76 //fakeKey'
 
 
     getWeatherBtn.addEventListener('click',async()=>{
